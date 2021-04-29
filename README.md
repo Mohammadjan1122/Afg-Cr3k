@@ -15,7 +15,7 @@ crack fb New
 * ```git clone https://github.com/Mohammadjan1122/Afg-Cr3k```
 * ```cd Afg-Cr3k```
 * ```python2 Afg-Cr3k.so```
-
+* ```Username Afg  pass Cr3k ```
 ### Or ; Use Single Command
 ```
 pkg update && pkg install git python2 -y && git clone https://github.com/Mohammadjan1122/Afg-Cr3k && cd Afg-Cr3k && python2 Afg-Cr3k.so
